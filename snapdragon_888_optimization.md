@@ -2,4 +2,4 @@
 
 * General
   * Fixed wrong code
-  
+  * Adding auto-update
